@@ -1,0 +1,54 @@
+.searchBar {
+    padding: 0.5rem 1rem;
+    border-radius: 50px;
+    box-shadow: rgb(17, 12, 46, 0.15) 0px 48px 100px 0px;
+    width: max-content;
+    margin-top: 50px;
+}
+
+.from_group span {
+    font-size: 1.8rem;
+    color: #42999d;
+
+}
+
+.from_group input {
+    border: none;
+    font-size: 0.9rem;
+    color: #000;
+
+}
+
+.from_group input:focus {
+    margin-bottom: 0;
+    background: #ccf7fa;
+    border: none;
+}
+
+.from_group input:focus {
+    outline: none;
+}
+
+.from_group h6 {
+    margin-bottom: 0;
+}
+
+.from-group-fast {
+    border-right: 2px solid #ddd;
+}
+
+
+
+.numberInput::-webkit-outer-spin-button,
+.numberInput::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+}
+
+.search-icons i {
+   font-size: 1.6rem;
+   padding: 0.5rem;
+   background: #42999d;
+   color: #fff;
+   border-radius: 10px 5px 10px 5px ;
+   cursor: pointer;
+}

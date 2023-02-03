@@ -1,0 +1,118 @@
+.hero_subtitle img {
+    width: 2.3rem;
+    height: 2.3rem;
+
+}
+
+.hero-container h1 {
+    font-size: 3.2rem;
+    font-weight: 600;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    color: #e9d469;
+    /* font-family: var(); */
+}
+
+.hero-container h1 .highlight {
+    color: #ababab;
+}
+
+.hero-container p {
+    font-size: 1.1rem;
+    color: #000;
+    line-height: 2rem;
+}
+
+
+.hero-img-box img,
+.hero-img-box video {
+    width: 100%;
+    height: 350px;
+    border-radius: 15px;
+    border: 1px solid #ababab;
+}
+
+.hero-container {
+    padding-top: 3.5rem;
+
+}
+
+.hero-img-box {
+    padding-top: 2rem;
+}
+
+.services-subtile {
+    font-size: 2.1rem;
+    font-weight: 600;
+    color: #42889d;
+    /* font-family: var(); */
+}
+
+.services-title {
+    font-size: 2.5rem;
+    font-weight: 500;
+}
+
+.featured-tour-title {
+    font-size: 2.3rem;
+    font-weight: 500;
+}
+
+
+
+.experience-container p {
+    font-size: 1.1rem;
+    color: var(--text-color);
+    font-weight: 400;
+    margin-top: 1rem;
+}
+
+.counter-wrapper {
+    margin-top: 2rem;
+}
+
+.counter-box span {
+    width: 70px;
+    height: 70px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #42889d;
+    color: #fff;
+    font-size: 1.6rem;
+    font-weight: 600;
+    border-radius: 10px 5px 15px 5px;
+}
+
+.counter-box h6 {
+    font-size: 1.rem;
+    margin-top: 0.7rem;
+    color: var(--text-color);
+}
+
+
+.experience-img {
+    width: 90%;
+}
+
+.gallery-title {
+    font-size: 2.3rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.masonry-img {
+    transition: .3s ease-in;
+
+}
+
+.masonry-img:hover {
+    transform: scale(1.1);
+}
+
+.testimonial-title {
+    font-size: 2.3rem;
+    margin-top: 1rem;
+    font-weight: 500;
+}
